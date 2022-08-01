@@ -18,7 +18,7 @@ Output: false
 
 
 # Code
-python:
+Python:
 ```python
 # Python collections.Counter，
 # 最主要的作用就是計算“可迭代序列中”各個元素（element）的數量
