@@ -11,7 +11,7 @@ The test cases are generated so that the answer fits in a 32-bits integer.
 
 Example 1:
 
-![image](.image/1022-Sum-of-Root-To-Leaf-Binary-Numbers.png)
+![image](.image/1022.png)
 
 ```
 Input: root = [1,0,1,0,1,0,1]
