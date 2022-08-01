@@ -11,7 +11,7 @@ The test cases are generated so that the answer fits in a 32-bits integer.
 
 Example 1:
 
-![image](https://github.com/spencersweet0530/leetcode/tree/main/image/1022-Sum of Root To Leaf Binary Numbers.png)
+![image](https://github.com/spencersweet0530/leetcode/tree/main/image/1022-Sum-of-Root-To-Leaf-Binary-Numbers.png)
 
 ```
 Input: root = [1,0,1,0,1,0,1]
