@@ -4,14 +4,14 @@
 Given the `head` of a singly linked list, reverse the list, and return the reversed list.
 
 Example 1:
-![image](https://github.com/spencersweet0530/leetcode/tree/main/image/206-1.png)
+![image](./image/206-1.png)
 ```
 Input: head = [1,2,3,4,5]
 Output: [5,4,3,2,1]
 ```
 
 Example 2:
-![image](https://github.com/spencersweet0530/leetcode/tree/main/image/206-2.png)
+![image](./image/206-2.png)
 ```
 Input: head = [1,2]
 Output: [2,1]
