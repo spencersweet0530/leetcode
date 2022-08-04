@@ -29,6 +29,15 @@ Output: []
 
 Python:
 ```python
+'''
+head：指向自己
+head.next：指向下一個
+prev：指向前一個
+
+head：指向自己 → 指向下一個（head.next）
+head.next：指向前一個（prev）
+prev：指向前一個 → 指向自己（head）
+'''
 class ListNode(object):
     def __init__(self, val=0, next=None):
         self.val = val
