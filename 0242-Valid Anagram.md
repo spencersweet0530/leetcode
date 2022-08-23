@@ -36,6 +36,9 @@ C++:
 因為unordered_map容器不允許重複鍵，這意味著如果容器中存在具有該鍵的元素，
 則該函數實際上返回1 ，否則返回 0。
 */
+// length() = size() 不同函數同樣結果
+// unordered_map<char, int> counts: return與鍵關聯的映射值的數量k
+// 由於此容器不允許重複，因此值始終為 0 或 1
 class Solution {
 public:
     bool isAnagram(string s, string t) {
